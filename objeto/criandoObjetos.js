@@ -37,6 +37,6 @@ console.log(f1.getSalario(), f2.getSalario())
 
 // Object.create
 const filha = Object.create(null)
-filha.nome = 'Ana'
+filha.nome = 'Maria'
 console.log(filha)
 
